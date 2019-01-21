@@ -1,2 +1,2 @@
 # Tugas-Puji
-it is the repository of all task
+It is the repository of all task
