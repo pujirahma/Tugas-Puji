@@ -1,0 +1,11 @@
+body {background-image:url("../back.gif");}
+h1 {color:Tomato;margin:15px;}
+
+#nav {border-left: 3px dashed;border-right:3px dotted; border-top:solid;border-bottom:double;margin:10px 5px 15px 20px;padding:15px 10px 10px 15px;}
+
+#nav a	{
+	text-decoration: none;
+	color: #ff66cc;
+}
+
+#footer
